@@ -10,7 +10,7 @@ Documentation:
 Further Tasks:
 
  * [Coding Dojo](http://ccd-school.de/coding-dojo/)
- * [Regex Crossword](https://regexcrossword.com], see also [import re](https://docs.python.org/3/library/re.html)
+ * [Regex Crossword](https://regexcrossword.com), see also [import re](https://docs.python.org/3/library/re.html)
 
 IDEs:
  * atom.io
