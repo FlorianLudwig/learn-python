@@ -8,6 +8,7 @@ else:
 
 
 print(True and False)
+print(True and (False or True))
 
 
 for i in range(10):
